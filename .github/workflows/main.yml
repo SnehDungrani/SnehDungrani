@@ -28,3 +28,6 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: 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
+
+      - name: Debug Token
+        run: echo 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
