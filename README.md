@@ -40,8 +40,6 @@ I'm a passionate web developer with expertise in HTML, CSS, JavaScript, and Reac
 
 <h2 align="center">Contributions 🤝🏻</h2>
 
-![Snake animation](https://github.com/SnehDungrani/SnehDungrani/blob/output/github-contribution-grid-snake.svg)
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
