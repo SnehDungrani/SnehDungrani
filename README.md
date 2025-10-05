@@ -15,6 +15,8 @@ I'm a passionate web developer with expertise in HTML, CSS, JavaScript, and Reac
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="php" width="45" height="45"/></code>&nbsp;&nbsp;
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="php" width="45" height="45"/></code>&nbsp;&nbsp;
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="bash" width="45" height="45"/></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="bash" width="45" height="45"/></code>
+          
 </p>
 
 <h2 align="center">Let's Connect and have a Chat! 💬</h2>
