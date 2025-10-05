@@ -4,7 +4,7 @@
 
 <h2 align="center">About Me 🔍</h2>
 <p align="center">
-I'm a passionate web developer with expertise in HTML, CSS, JavaScript, and React.js. I love creating interactive and visually appealing web applications.
+I’ve transitioned from web development to Python, now focusing on building a strong foundation in machine learning.
 </p>
 
 <h2 align="center">Some Tools I Have Used and Learned 🚀</h2>
